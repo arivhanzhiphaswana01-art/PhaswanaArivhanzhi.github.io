@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://arivhanzhiphaswana1-art.github.io/sitemap.xml
